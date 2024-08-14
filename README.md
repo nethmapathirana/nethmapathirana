@@ -1,10 +1,6 @@
 ### Hi there. I am Nethma Pathirana 👋
 
-I am currently in my third year of studying Data Science at the Sri Lanka Technological Campus. 
-Previously, I attended Lyceum International School in Nugegoda, Sri Lanka where I completed my Cambridge Advanced Levels in the Mathematical Stream, achieving 3A* in 2020. 
-Additionally, I have completed the Post Graduate Diploma Level of BCS, UK along with the Final Project. 
-My knowledge includes the Python Programming Language, HTML Markup Language, PHP Scripting Language, and MySQL Databases.
-
+I am currently in my final year of studying Data Science at the Sri Lanka Technological Campus. Previously, I attended Lyceum International School in Nugegoda, Sri Lanka where I completed my Cambridge Advanced Levels in the Mathematical Stream, achieving 3A* in 2020. Additionally, I have completed the Post Graduate Diploma Level of BCS, UK along with the Final Project and received the Professional Membership of BCS (MBCS). My knowledge includes the Python, R Programming Languages, HTML Markup Language, PHP Scripting Language, and MySQL Databases.
 
 <!--
 **nethmapathirana/nethmapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
