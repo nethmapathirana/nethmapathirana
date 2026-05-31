@@ -1,6 +1,14 @@
 ### Hi there. I am Nethma Pathirana 👋
 
-I am currently in my final year of studying Data Science at the Sri Lanka Technological Campus. Previously, I attended Lyceum International School in Nugegoda, Sri Lanka where I completed my Cambridge Advanced Levels in the Mathematical Stream, achieving 3A* in 2020. Additionally, I have completed the Post Graduate Diploma Level of BCS, UK along with the Final Project and received the Professional Membership of BCS (MBCS). My knowledge includes the Python, R Programming Languages, HTML Markup Language, PHP Scripting Language, and MySQL Databases.
+I am a First Class Data Science graduate with experience in AI, remote sensing and data analytics, currently working as a Junior Executive Data Analyst at Pelwatte Dairy Industries. My work focuses on building Power BI dashboards, automating reports, analysing SFA and SAP data and supporting the company’s digital transformation initiatives.
+
+Alongside this, I work as a Research Intern at CRISiSLab (Massey University, New Zealand), where I contribute to an AI-based disaster assessment project. My research includes satellite flood mapping using Sentinel-1/2 and Google Earth Engine and building deep-learning models such as ResNet-50 and YOLOv8 to detect cyclone damage from drone imagery.
+
+Previously, I completed a Data Science internship at SLT Digital Lab, where I helped develop a Generative AI–based Enterprise Knowledge Base and a real-time call translation system.
+
+I am also a Professional Member of the British Computer Society (MBCS), having completed the Certificate, Diploma and Postgraduate Diploma levels.
+
+My technical skills include Python, R, SQL, PHP, Power BI, MySQL and cloud platforms such as Google Cloud and Azure. I enjoy working on AI, computer vision, geospatial analytics and data-driven solutions that create real impact. I am continuously learning and always open to new opportunities and collaborations.
 
 <!--
 **nethmapathirana/nethmapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
